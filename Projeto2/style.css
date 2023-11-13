@@ -1,11 +1,14 @@
 body {
     margin: 0;
     font-family: 'Open Sans', sans-serif;
+    background: linear-gradient(180deg, rgba(227, 255, 248, 0.00) 82.08%, rgba(227, 255, 248, 0.38) 100%);
+    min-height: 100vh;
 }
 
 .page {
     width: 1000px;
-    margin: 65px auto 0;
+    margin: 0 auto 0;
+    padding-top: 65px;
 }
 
 nav {
@@ -27,8 +30,13 @@ a {
     color: #1f1534;
 }
 
+ul li a {
+    opacity: 0.7;
+}
+
 ul li a:hover {
     font-weight: bold;
+    opacity: 1;
 }
 
 h1 {
@@ -61,8 +69,22 @@ section p {
 }
 
 button {
+    color: #fff;
     text-transform: uppercase;
     font-family: 'Open Sans', sans-serif;
+    background: #69B99D;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 14px 32px 15px;
+    gap: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #3d8a6f;
 }
 
 footer {
@@ -74,4 +96,10 @@ footer {
 
 footer a {
     font-weight: bold;
+}
+
+#balls {
+    position: fixed;
+    bottom: 0;
+    right: 0;
 }
