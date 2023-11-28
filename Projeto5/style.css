@@ -60,3 +60,6 @@ ul {
 ul, ol {
     padding-left: 2.4rem;
 }
+
+@media (min-width: 770px) {
+}
