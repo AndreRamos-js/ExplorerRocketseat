@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    font-size: 62.5%; /* Equivale a 10px */
+    font-family: 'Source Serif 4', sans-serif;
+}
+
+body {
+    color: #A54328;
+    font-size: 1.6rem;
+}
+
+h1, h2 {
+    font-size: 2.8rem;
+    line-height: 3.6rem;
+}
+
+p, li, strong {
+    font-size: 1.4rem;
+    line-height: 1.8rem;
+}
+
+button {
+    font-weight: 500;
+    background-color: #A54328;
+    color: #fff;
+    border: none;
+    padding: .8rem 1.2rem;
+    border-radius: .6rem;
+    margin-top: 1.8rem;
+}
