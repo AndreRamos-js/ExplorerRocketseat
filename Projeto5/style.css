@@ -61,5 +61,35 @@ ul, ol {
     padding-left: 2.4rem;
 }
 
-@media (min-width: 770px) {
+@media (min-width: 1124px) {
+    main {
+        flex-direction: row;
+        max-width: fit-content;
+        gap: 16rem;
+        padding: 9rem 6rem;
+    }
+
+    .receita {
+        max-width: 43.5rem;
+    }
+
+    .ingredientes {
+        max-width: 52.5rem;
+    }
+
+    h1, h2 {
+        font-size: 4rem;
+        line-height: 5rem;
+    }
+
+    p, li, strong {
+        font-size: 2rem;
+        line-height: 2.5rem;
+    }
+
+    button {
+        font-size: 1.4rem;
+        line-height: 2.4rem;
+        padding: 1rem 2rem;
+    }
 }
