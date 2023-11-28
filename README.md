@@ -46,7 +46,7 @@ Projeto Cheesecake
 - Este projeto reforça a importância da resposividade e adota a abordagem "mobile-first" na construção de um site envolvente, utilizando exclusivamente HTML e CSS.
 - O projeto prioriza o alinhamento flexível para layouts adaptáveis e a criação de estilos atraentes para garantir uma experiência de usuário consistente em dispositivos móveis e desktops.
 
-![Imagem do WhatsApp de 2023-11-28 à(s) 13 51 59_41862588](https://github.com/AndreRamos-js/ExplorerRocketseat_HTMLeCSS/assets/83097746/6f911ecc-51d6-4c2e-8897-a38157050fa3)
+![screencapture-127-0-0-1-5500-Projeto5-index-html-2023-11-28-13_59_54](https://github.com/AndreRamos-js/ExplorerRocketseat_HTMLeCSS/assets/83097746/3acc2b9e-0130-41d9-a3fe-1d12f05ce44c)
 -
 ![image](https://github.com/AndreRamos-js/ExplorerRocketseat_HTMLeCSS/assets/83097746/a1922cad-9333-43b3-83b9-6a695a53efa6)
 
