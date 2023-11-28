@@ -38,3 +38,15 @@ Projeto de introdução a responsividade
 ![image](https://github.com/AndreRamos-js/ExplorerRocketseat_HTMLeCSS/assets/83097746/aada3691-fff8-4035-b2e7-4caa880de465)
 -
 ![image](https://github.com/AndreRamos-js/ExplorerRocketseat_HTMLeCSS/assets/83097746/45e9cf86-13f1-423d-be7c-7574e4fa6bfb)
+
+## Projeto 5
+
+Projeto Cheesecake
+
+- Este projeto reforça a importância da resposividade e adota a abordagem "mobile-first" na construção de um site envolvente, utilizando exclusivamente HTML e CSS.
+- O projeto prioriza o alinhamento flexível para layouts adaptáveis e a criação de estilos atraentes para garantir uma experiência de usuário consistente em dispositivos móveis e desktops.
+
+![Imagem do WhatsApp de 2023-11-28 à(s) 13 51 59_41862588](https://github.com/AndreRamos-js/ExplorerRocketseat_HTMLeCSS/assets/83097746/6f911ecc-51d6-4c2e-8897-a38157050fa3)
+-
+![image](https://github.com/AndreRamos-js/ExplorerRocketseat_HTMLeCSS/assets/83097746/a1922cad-9333-43b3-83b9-6a695a53efa6)
+
