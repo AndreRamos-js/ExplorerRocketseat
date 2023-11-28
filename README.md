@@ -38,4 +38,3 @@ Projeto de introdução a responsividade
 ![image](https://github.com/AndreRamos-js/ExplorerRocketseat_HTMLeCSS/assets/83097746/aada3691-fff8-4035-b2e7-4caa880de465)
 -
 ![image](https://github.com/AndreRamos-js/ExplorerRocketseat_HTMLeCSS/assets/83097746/45e9cf86-13f1-423d-be7c-7574e4fa6bfb)
-
