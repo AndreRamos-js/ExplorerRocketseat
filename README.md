@@ -50,3 +50,5 @@ Projeto Cheesecake
 -
 ![image](https://github.com/AndreRamos-js/ExplorerRocketseat_HTMLeCSS/assets/83097746/a1922cad-9333-43b3-83b9-6a695a53efa6)
 
+## Projeto 6
+
