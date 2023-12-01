@@ -56,5 +56,8 @@ Projeto Galáxias
 
 - Este projeto tem como foco a introdução do layout grid utilizando HTML e CSS para criar um design visualmente apelativo e estruturado.
 - A ênfase está no uso do sistema de grid para alinhamentos eficientes e na aplicação de estilos personalizados.
+- EXTRA: Com conhecimentos adquiridos nos projetos anteriores, pude implementar a responsividade a esse projeto, visto que não foi implementada em aula.
 
+![screencapture-127-0-0-1-5500-Projeto6-2023-12-01-12_45_50](https://github.com/AndreRamos-js/ExplorerRocketseat_HTMLeCSS/assets/83097746/d8bac93f-2c46-41ba-bf1e-8f3f5b137cd2)
+-
 ![screencapture-127-0-0-1-5500-Projeto6-index-html-2023-12-01-00_48_49](https://github.com/AndreRamos-js/ExplorerRocketseat_HTMLeCSS/assets/83097746/a663d641-4d92-4ff0-8a8b-690877ec3e01)
