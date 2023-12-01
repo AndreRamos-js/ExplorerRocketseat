@@ -6,10 +6,17 @@
 
 body {
     background: #121214;
+    padding: 72px 104px;
+}
+
+main {
+    display: grid;
+    grid-template-columns: repeat(3, 370px);
+    gap: 48px 60px;
+    place-content: center;
 }
 
 .card {
-    padding: 0 32px 32px;
     background: #202024;
     border-radius: 8px;
     border: 2px solid #323238;
