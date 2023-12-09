@@ -36,6 +36,11 @@ body {
     height: 100vh;
 }
 
+main {
+    overflow-y: scroll;
+    background-color: var(--color-base-gray-100);
+}
+
 header, nav, nav ul {
     display: flex;
     align-items: center;
@@ -87,10 +92,6 @@ img.avatar {
     border-radius: 50%;
 }
 
-main {
-    overflow-y: scroll;
-    background-color: var(--color-base-gray-100);
-}
 
 /* GALERIA */
 
@@ -116,10 +117,19 @@ main h1 {
     width: 100%;
     aspect-ratio: 16/9;
     object-fit: cover;
+    transition: all 200ms ease-out;
+}
+
+.item img:hover {
+    filter: hue-rotate(7deg) contrast(101%) saturate(155%);
+    transform: scale(1.1) rotate(-1deg);
 }
 
 .details {
     padding: 2.2rem;
+    background-color: var(--color-base-white);
+    z-index: 1;
+    position: relative;
 }
 
 .details h2 {
