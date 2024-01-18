@@ -8,14 +8,15 @@ const digaMeuNome = () => {
 digaMeuNome()
 */
 
-function digaMeuNome(name){
+function executarCallback(callback){
+    
     console.log('Iniciando callback')
-
-    name()
+    
+    callback()
 
     console.log('Finalizando callback')
 }
 
-digaMeuNome(() => {
+executarCallback(() => {
     console.log('Estou em uma callback')
 })
