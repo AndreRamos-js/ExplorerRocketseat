@@ -31,3 +31,7 @@ let num2 = 5
 console.log(num1)
 console.log(num2)
 console.log(`A soma de ${num1} com ${num2} resulta em ${sum(num1, num2)}`)
+
+let num= 10
+res = (!(num%2) ? 'Par' : 'Impar')
+console.log(res)
