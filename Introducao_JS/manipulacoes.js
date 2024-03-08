@@ -19,3 +19,6 @@ console.log(meuArray)
 
 let textoComUnderscore = meuArray.join("_")
 console.log(textoComUnderscore)
+
+let outraFrase = 'Eu estou estudando!'
+console.log(outraFrase.includes('estou'))
